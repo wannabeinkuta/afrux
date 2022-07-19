@@ -1,0 +1,3 @@
+# afrux
+
+My perfect repo
